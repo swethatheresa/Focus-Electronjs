@@ -1,4 +1,4 @@
-# focus
+# Focus
 
 An Electron application with React
 
@@ -32,3 +32,6 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+
+## App Preview
+<img width="958" alt="1" src="https://github.com/swethatheresa/Focus-Electronjs/assets/83918978/0ac9dd15-9067-4dc6-b829-f715ecec405d">
