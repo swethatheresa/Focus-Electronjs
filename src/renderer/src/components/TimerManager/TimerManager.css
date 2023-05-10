@@ -1,0 +1,24 @@
+.timer{
+    margin: 1em;
+}
+.timer label {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+.timer  input {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 0.5rem;
+    font-size: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+  }
+  
+.timer  input:focus {
+    outline: none;
+    border-color: #0077ff;
+  }
+  

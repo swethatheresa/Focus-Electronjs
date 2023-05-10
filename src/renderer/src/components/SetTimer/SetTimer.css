@@ -1,0 +1,15 @@
+.timer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 100px;
+  background-color: #FABB18;
+  border-radius: 10px;
+}
+
+.timer-display {
+  font-size: 48px;
+  font-weight: bold;
+  color: black;
+}

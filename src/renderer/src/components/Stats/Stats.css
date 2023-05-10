@@ -1,0 +1,39 @@
+.stats-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1em;
+  }
+  
+  .stats-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    border-radius: 0.5em;
+    background-color: #FABB18;
+    color: black;
+  }
+  
+  .completed-box {
+    margin-right: 1em;
+  }
+  
+  .pending-box {
+    margin-left: 1em;
+  }
+  
+  .stats-count {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+  }
+  
+  .stats-label {
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  
